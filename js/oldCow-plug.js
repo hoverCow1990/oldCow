@@ -60,6 +60,7 @@
 		console.log("dev12")
 	}
 
+
 	//轮播构造函数
 	function CowCarousel(carousel,option,height){
 		this._obj = carousel;
