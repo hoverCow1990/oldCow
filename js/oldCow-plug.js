@@ -57,7 +57,8 @@
 
 	********************************/
 	function a(){
-		console.log("dev12")
+		console.log("dev12");
+		console.log("my feature")
 	}
 
 	function b(){
