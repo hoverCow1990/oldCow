@@ -56,6 +56,9 @@
 			类型:父类
 
 	********************************/
+	function cool(){
+		console.log("this.iscool");
+	}
 	function a(){
 		console.log("dev12");
 		console.log("my feature")
@@ -64,6 +67,8 @@
 	function b(){
 		console.log("master12")
 	}
+
+
 
 	//轮播构造函数
 	function CowCarousel(carousel,option,height){
