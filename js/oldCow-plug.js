@@ -56,8 +56,9 @@
 			类型:父类
 
 	********************************/
-
-	alert(222333);
+	function a(){
+		alert(222333);
+	}
 
 	//轮播构造函数
 	function CowCarousel(carousel,option,height){
