@@ -60,6 +60,9 @@
 		console.log("dev12")
 	}
 
+	function b(){
+		console.log("master12")
+	}
 
 	//轮播构造函数
 	function CowCarousel(carousel,option,height){
