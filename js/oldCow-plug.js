@@ -1,3 +1,4 @@
+// 小伙子!! 老牛!!
 !(function(window,document,$){
 	'use strict'
 	var globalTimer;
