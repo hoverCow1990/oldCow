@@ -56,18 +56,6 @@
 			类型:父类
 
 	********************************/
-	function cool(){
-		console.log("this.iscool");
-	}
-	function a(){
-		alert("aaa");
-	}
-
-	function b(){
-		console.log("master12")
-	}
-
-
 
 	//轮播构造函数
 	function CowCarousel(carousel,option,height){
