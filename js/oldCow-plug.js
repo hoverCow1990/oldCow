@@ -1,3 +1,4 @@
+// 帅气的老牛
 !(function(window,document,$){
 	'use strict'
 	var globalTimer;
