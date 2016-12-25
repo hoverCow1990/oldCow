@@ -1,4 +1,4 @@
-// 帅气的老牛
+// 帅气的小伙子 啦啦啦啦啦啦
 !(function(window,document,$){
 	'use strict'
 	var globalTimer;
