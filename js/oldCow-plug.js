@@ -60,8 +60,7 @@
 		console.log("this.iscool");
 	}
 	function a(){
-		console.log("dev12");
-		console.log("my feature")
+		alert("aaa");
 	}
 
 	function b(){
