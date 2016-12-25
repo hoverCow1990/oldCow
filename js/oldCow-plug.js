@@ -1,4 +1,4 @@
-// 帅气的老牛
+// 终于要ok辣
 !(function(window,document,$){
 	'use strict'
 	var globalTimer;
