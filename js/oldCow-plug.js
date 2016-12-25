@@ -56,7 +56,9 @@
 			类型:父类
 
 	********************************/
-
+	function xiaohuo(){
+		alert(cao)
+	}
 	//轮播构造函数
 	function CowCarousel(carousel,option,height){
 		this._obj = carousel;
